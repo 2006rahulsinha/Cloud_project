@@ -1,0 +1,32 @@
+{
+  "projectName": "Your-Existing-NextJS-App",
+  "responseTime": 0,
+  "cpuUsage": 0,
+  "memoryUsage": 0,
+  "requestCount": 0,
+  "errorCount": 0,
+  "successCount": 0,
+  "activeConnections": 0,
+  "timestamp": 1759413660477,
+  "uptime": 0,
+  "pages": {
+    "home": 0,
+    "api": 0,
+    "other": 0
+  },
+  "routes": {},
+  "buildInfo": {
+    "lastBuild": null,
+    "buildTime": 0,
+    "isProduction": false
+  },
+  "requestRate": 0,
+  "errorRate": 0,
+  "successRate": 100,
+  "lastUpdated": "2025-10-02T14:01:00.487Z",
+  "integration": {
+    "cloudsimReady": true,
+    "monitoringActive": true,
+    "version": "2.0"
+  }
+}
